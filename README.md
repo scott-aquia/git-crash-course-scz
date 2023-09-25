@@ -4,7 +4,6 @@ Welcome to the Git and GitHub Lunch and Learn Exercise Repository! This reposito
 
 ## 🏆 Certificate of Completion Recipients:
 
-- Sinan Bolel
 - _Your name here_
 
 
