@@ -5,8 +5,8 @@ Welcome to the Git and GitHub Lunch and Learn Exercise Repository! This reposito
 ## 🏆 Certificate of Completion Recipients:
 
 
-- Savannah Burke
-- Eric Rippetoe (Learning about forks and branches was new and useful to me)
+
+- Scott Zimmerman
 
 
 
